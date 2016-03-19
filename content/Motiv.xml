@@ -33,7 +33,7 @@
 		<supportunicode>1</supportunicode>
 		<supportcheckdelivery>1</supportcheckdelivery>
 		<captcha>1</captcha>
-		<gateurl>http://cell.motivtelecom.ru/ekb/smssend</gateurl>
+		<gateurl>http://cell.motivtelecom.ru/sverdlovsk-oblast/smssend</gateurl>
 	</info>
 	<classprops>
 		<encoding>UTF-8</encoding>
